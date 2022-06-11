@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://github.com/kusa-mochi/line-open-chat-faq/raw/gh-pages/css/common.css" />
+<link rel="stylesheet" href="https://kusa-mochi.github.io/line-open-chat-faq/css/common.css" />
 
 # オープンチャットの基本
 
