@@ -1,3 +1,29 @@
+# もくじ
+1. [用語](#words)
+1. [操作方法](#operations)
+
+<a id="words"></a>
+
+# 用語
+
+|用語|意味|
+|:---|:---|
+|メンション||
+|リプライ||
+|ノート||
+|大事なノート||
+
+<a id="operations"></a>
+
+# 操作方法
+
+## メンションの仕方
+
+## リプライの仕方
+
+## ノートの書き方
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kusa-mochi/line-open-chat-faq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
