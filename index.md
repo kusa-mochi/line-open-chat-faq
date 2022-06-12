@@ -61,6 +61,7 @@ Read Only Memberの略。
 
 文の途中にもメンションを追加できる。
 ![メンションの仕方](images/flow4.png)
+<img src="images/flow4.png" class="operations-image" />
 
 <hr>
 
